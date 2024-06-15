@@ -13,7 +13,4 @@ public class MvcController {
     public String landingPage(){
         return"I am landing page";
     }
-
-    @PostMapping
-    public String
 }
